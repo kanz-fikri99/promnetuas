@@ -1,5 +1,5 @@
 <?php
-	$koneksi = mysqli_connect("localhost", "root", "", "s1_kemahasiswaan");
+	$koneksi = mysqli_connect("localhost", "root", "", "db_mahasiswa");
 
 //Check Connection
 if(mysqli_connect_errno()){
